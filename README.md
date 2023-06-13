@@ -3,7 +3,7 @@ This repository contains a web-based implementation of the classic Tic Tac Toe g
 
 ## How to Play
 
-Follow The Link 
+Follow The 
 Link :- https://i-pranjalmishra.github.io/Tic-Tac-Toe-Game-FrontEnd/
 
 ##### OR
